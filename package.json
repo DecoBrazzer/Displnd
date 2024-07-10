@@ -1,0 +1,18 @@
+{
+  "name": "displnd",
+  "version": "1.0.0",
+  "description": "Subscription Manager",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Decobrazzer",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }  
+}
+
